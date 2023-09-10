@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651426588 source:c:\users\alexl\onedrive\desktop\praktikum informatik\kassenautomat\main.c
+	<stdio.h>
+	<stdlib.h>
+
